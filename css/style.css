@@ -6,7 +6,7 @@ https://htmlcolorcodes.com/
 
 body{
     background: rgb(242, 178, 248);
-    margin: 100px;
+    margin: 50px;
     ;
 }
 
@@ -29,7 +29,7 @@ p{
 }
 
 footer{
-    margin-bottom: 300px;
+    margin-bottom: 50px;
 }
 
 .img_padrao{
